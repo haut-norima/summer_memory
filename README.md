@@ -6,5 +6,5 @@
    DjangoとSQLiteを少し触った（HTMLとCSSも少し）
 3. PCをアップグレード  
    グラフィックボードをGTX1060からRX6600XTに  
-4. 親戚みんなで花火を見た
+4. 親戚みんなで花火を見た  
    ついでにSwitch Sportsも
