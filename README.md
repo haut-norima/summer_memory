@@ -7,4 +7,4 @@
 3. PCをアップグレード  
    グラフィックボードをGTX1060からRX6600XTに  
 4. 親戚みんなで花火を見た  
-   ついでにSwitch Sportsも
+   ついでにSwitch Sportsやスマブラもした
